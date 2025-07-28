@@ -1,0 +1,15 @@
+#Created Measures Using DAX
+
+#Example DAX formulas used:
+- **Attrition Rate**:
+  ```DAX
+  Attrition Rate =DIVIDE(
+    CALCULATE(COUNTROWS(FILTER(employee_summary, employee_summary[attrition_status] = "Yes"))),
+    COUNTROWS(employee_summary)
+)
+
+- **Total Employees**:
+  ```DAX
+  Total Employees = DISTINCTCOUNT(Employee[EmployeeID])
+  ```
+
