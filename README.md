@@ -79,7 +79,7 @@ Employee_Attrition_Project
 2. Strengthened SQL and Excel dashboarding skills
 3. Delivered a clean, modular, and insightful project suitable for portfolio showcase
 <p align="center">
-  <img src="./Excel_Dashboard.png" width="600"/>
+  <img src="./Outputs/Charts & Reports/Excel Pivots & Dashboards.png" width="600"/>
 </p>
 ---
 
