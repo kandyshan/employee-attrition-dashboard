@@ -75,10 +75,12 @@ Employee_Attrition_Project
 
 ##  Outcomes
 
-1. Developed complete analysis workflow from raw data to business insights\
-2. Strengthened SQL and Excel dashboarding skills\
+1. Developed complete analysis workflow from raw data to business insights
+2. Strengthened SQL and Excel dashboarding skills
 3. Delivered a clean, modular, and insightful project suitable for portfolio showcase
-
+<p align="center">
+  <img src="./Excel_Dashboard.png" width="600"/>
+</p>
 ---
 
 ##  Conclusion & Recommendations
