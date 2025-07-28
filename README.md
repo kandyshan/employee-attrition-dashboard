@@ -103,5 +103,5 @@ Proactively addressing these trends can lead to reduced turnover, improved moral
 
 ---
 
-📧 Connect on [LinkedIn](https://www.linkedin.com/in/annkandie) 
+📧 Connect on [LinkedIn]([https://www.linkedin.com/in/annkandie](https://www.linkedin.com/in/ann-kandie-121b3481) 
 
