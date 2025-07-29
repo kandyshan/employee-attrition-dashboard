@@ -13,7 +13,7 @@ Global X Organization is struggling with employee turnover, which affects produc
 - Provide actionable insights for HR and leadership teams.
 
 ---
-## 📄 Dataset Note
+##  Dataset Note
 
 The dataset used in this project was **synthetically generated using Python** for learning and demonstration purposes. It simulates 100 employee records with fields relevant to HR attrition analysis. No real personal or organizational data is used.
 
