@@ -29,7 +29,7 @@ Employee_Attrition_Project
 │
 ├──  Excel_Analysis
 │   ├── Attrition_Analysis_Dashboard.xlsx
-│   └── README_Excel.md  ← detailed explanation of the dashboard
+│   └── Orverview  ← detailed explanation of the Project
 │
 └── README.md  ← this file
 ```
