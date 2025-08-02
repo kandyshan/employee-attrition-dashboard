@@ -31,8 +31,12 @@ Employee_Attrition_Project
 │   └── Screenshots
 │ 
 ├──  Querries
-│   ├── Attrition_Analysis_Dashboard.xlsx
-│   └── Orverview  ← detailed explanation of the Project
+│   ├── 1.1 View the first 10 employees.sql
+│   ├── 1.2 Number of employees by department.sql
+│   ├── 1.3 Average salary by job role.sql
+│   ├── 2.1 Total number of employees who left.sql
+│   ├── 2.2 Attrition rate by department.sql
+│   └── 2.3 Average salary of those who left vs stayed.sql
 │
 └── README.md  ← this file
 ```
