@@ -8,29 +8,29 @@ This project explores the factors that influence employee attrition using SQL fo
 
 Global X Organization is struggling with employee turnover, which affects productivity and increases hiring/training costs. The goal of this project is to:
 
-- Understand **who is leaving**, **why**, and **from where**.
+- Understand who is leaving, why, and from where.
 - Identify patterns that influence attrition (e.g., job roles, departments, salary).
 - Provide actionable insights for HR and leadership teams.
 
 ---
 ##  Dataset Note
 
-The dataset used in this project was **synthetically generated using Python** for learning and demonstration purposes. It simulates 100 employee records with fields relevant to HR attrition analysis. No real personal or organizational data is used.
+The dataset used in this project was synthetically generated using Python for learning and demonstration purposes. It simulates 100 employee records with fields relevant to HR attrition analysis. No real personal or organizational data is used.
 
 ## Project Structure
 
 ```
 Employee_Attrition_Project
 │
-├──  SQL_Queries
-│   ├── 1.1 View the first 10 employees.sql
-│   ├── 1.2 Number of employees by department.sql
-│   ├── 1.3 Average salary by job role.sql
-│   ├── 2.1 Total number of employees who left.sql
-│   ├── 2.2 Attrition rate by department.sql
-│   └── 2.3 Average salary of those who left vs stayed.sql
-│
-├──  Excel_Analysis
+├── Data
+|   ├── Excel Data Files
+|   └── SQL Database
+|
+├──  Outputs
+│   ├── Charts & Reports
+│   └── Screenshots
+│ 
+├──  Querries
 │   ├── Attrition_Analysis_Dashboard.xlsx
 │   └── Orverview  ← detailed explanation of the Project
 │
