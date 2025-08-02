@@ -65,8 +65,8 @@ Employee_Attrition_Project
 ### Excel Dashboard
 
 - Interactive filters by department, job role, and attrition status
-- Summary cards (total employees, attrition rate, average salary, etc.)
-- Visuals showing trends and outliers (bar charts, pie charts)
+- Summary cards (total employees, attrition rate, average salary, average performance.)
+- Visuals showing results (bar charts, pie charts, column charts)
 - Designed for HR teams to quickly identify problem areas
 
 ---
@@ -75,8 +75,8 @@ Employee_Attrition_Project
 
 - Operations (31.58%) and IT (32.00%) departments had the highest attrition rates, well above the organizational average of 24%.
 - Males (26.79%) were more likely to leave than females (20.45%).
-- IT employees received the highest average salary (\$129,819.44), followed by Finance (\$122,387.13).
-- HR had the lowest attrition rate (16.67%) and also one of the lowest average salaries (\$110,695.58).
+- IT employees received the highest average salary ($129,819.44), followed by Finance ($122,387.13).
+- HR had the lowest attrition rate (16.67%) and also one of the lowest average salaries ($110,695.58).
 
 ---
 
@@ -84,7 +84,7 @@ Employee_Attrition_Project
 
 1. Developed complete analysis workflow from raw data to business insights
 2. Strengthened SQL and Excel dashboarding skills
-3. Delivered a clean, modular, and insightful project suitable for portfolio showcase
+3. Delivered a clean, modular, and insightful project
 <p align="center">
   <img src="./Outputs/Charts & Reports/Excel Pivots & Dashboards.png" width="600"/>
 </p>
@@ -96,7 +96,7 @@ Based on the analysis:
 
 - **Targeted Interventions**: Focus on Operations and IT departments for retention strategies, such as workload assessments, team restructuring, or enhanced engagement.
 - **Gender-Based Strategy**: Tailor retention plans to address factors causing higher male attrition.
-- **Compensation Review**: Ensure salary bands reflect market expectations and job demands, especially in lower-paying roles with high attrition.
+- **Compensation Review**: Ensure salary bands reflect market expectations and job demands, especially in lower-paying roles with high attrition like operations.
 - **HR as a Benchmark**: Investigate HR practices to replicate successful retention strategies in other departments.
 
 Proactively addressing these trends can lead to reduced turnover, improved morale, and long-term cost savings.
